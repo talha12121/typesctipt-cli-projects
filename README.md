@@ -1,2 +1,2 @@
-# typesctipt-projects
+# typesctipt-cli-projects
  
