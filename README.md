@@ -1,4 +1,6 @@
 # typesctipt-cli-projects
+
+Run these Command 
  
 00 = npx talharahim_newcli_calc
 
